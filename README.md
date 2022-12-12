@@ -4,7 +4,7 @@ Hello, my name is Carla López, I am 23 years old and I have created this profil
 <a href = 'https://ar.linkedin.com/in/carlalopez164' target="_blank" ><img src = 'asses/ln.png' width=70 heigt = 70>
 
 </a>
-<a href = '' ><img src = 'asses/tw.png' width=70 heigt = 10>
+<a href = 'https://twitter.com/CarlaLopezDev' ><img src = 'asses/tw.png' width=70 heigt = 10>
 
 </a>
 
