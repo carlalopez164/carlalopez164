@@ -1,7 +1,7 @@
 Hello, my name is Carla López, I am 23 years old and I have created this profile on GitHub because I am studying programming and I want to register my projects. 
 
 <p>My networks:</p> 
-<a href = 'https://ar.linkedin.com/in/carlalopez164' ><img src = 'asses/ln.png' width=70 heigt = 70>
+<a href = 'https://ar.linkedin.com/in/carlalopez164' _blank ><img src = 'asses/ln.png' width=70 heigt = 70>
 
 </a>
 
