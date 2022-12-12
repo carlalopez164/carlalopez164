@@ -1,4 +1,9 @@
-Hi, my name is Carla Lopez, I am 23 years old and I created this profile in GitHub because I'm study programming 
+Hello, my name is Carla López, I am 23 years old and I have created this profile on GitHub because I am studying programming and I want to register my projects. 
+My networks: 
+
+
+
+My skills
 
 <!---
 carlalopez164/carlalopez164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
